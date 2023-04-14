@@ -1,7 +1,7 @@
 # Jingyi-Research-Professional-Test
-## task 1
+## Task 1
 ### The steps to creat the specified dataset are presented in the do file "Task 1" (I use the dta form dataset)
-## task 2
+## Task 2
 ### The steps to creat the specified dataset are presented in the do file "Task 2" (I use the dta form dataset)
 ## Task 3
 ### According to table 1, the inconsistence ratio ranges from .5833333 to .7108014, and the hedge fund performance ranges from  -.0007153 to .0050766. The hedge fund performance varies for different category of the hedge fund product. Inconsistent disclosures may be related to fund performance because they could indicate the presence of adverse events that the hedge fund adviser is attempting to hide or downplay. For example, if a hedge fund had a history of regulatory sanctions, but did not disclose this in their Part 2 brochure, this could signal to investors that the fund is not trustworthy and that there may be other undisclosed risks associated with investing in the fund. Furthermore, selective disclosure may indicate that the fund has something to hide or is not operating with transparency and integrity, which could ultimately impact investor confidence and the fund's performance.
